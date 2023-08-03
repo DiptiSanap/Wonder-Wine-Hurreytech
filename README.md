@@ -24,16 +24,16 @@ The dataset contains the following features:
 The repository is organized as follows:
 
 1. **Wonder_Wine_using_CountVectorizer.ipynb**: This Jupyter Notebook contains the code and steps for building and training the NLP classification model using the CountVectorizer technique. It includes data preprocessing, feature extraction, model training, evaluation, and testing.
-Notebook link: 
+Notebook link: https://github.com/DiptiSanap/Wonder-Wine-Hurreytech/blob/main/Wonder_Wine_using_CountVectorizer.ipynb 
 
 2. **Wonder_Wine_using_BERT.ipynb**: This Jupyter Notebook contains the code and steps for building and training the NLP classification model using BERT. BERT is a powerful pre-trained transformer-based language model that excels in NLP tasks. The notebook covers data preprocessing, fine-tuning BERT, model evaluation, and testing.
-Notebook link:
+Notebook link: https://github.com/DiptiSanap/Wonder-Wine-Hurreytech/blob/main/Wonder_Wine_using_BERT.ipynb
 
 3. **Wonder_Wine_Visualisation_Insight.ipynb**: This Jupyter Notebook contains various data visualizations and insights related to the dataset. It helps in understanding the distribution of data, the class imbalance, and other important patterns in the data.
-Notebook link:
+Notebook link: https://github.com/DiptiSanap/Wonder-Wine-Hurreytech/blob/main/Wonder_Wine_Visualisation_Insight.ipynb
    
 4. **predictions.csv**: Predictions given by model on test.csv data
-File link: 
+File link: https://github.com/DiptiSanap/Wonder-Wine-Hurreytech/blob/main/predictions.csv
 
 5. **README.md**: The file you are currently reading, providing an overview of the repository and the assignment.
    
